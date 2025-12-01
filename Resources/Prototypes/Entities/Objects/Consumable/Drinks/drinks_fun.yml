@@ -92,6 +92,9 @@
   - type: Lube
   - type: TrashOnSolutionEmpty
     solution: drink
+  - type: Tag
+    tags:
+      - Lubricant
 
 
 # Mopwata
